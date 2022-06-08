@@ -1,9 +1,9 @@
 # Hello
 
-I'm studying
-- `Python (Data Scientist)`
-- `JavaScript`
+### I'm studying 🧑🏻‍💻
+- #### `Python (Data Scientist)` 
+- #### `JavaScript`
 
-and will try to
-- `Java`
-- `C`
+### and will try to
+- #### `Java`
+- #### `C`
