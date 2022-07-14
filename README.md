@@ -1,7 +1,7 @@
 # 안녕하세요!
 
 ### 제가 배우고 있는 것은 🧑🏻‍💻
-- #### `Python (Data Scientist)`  - 'Tkinter'
+- #### `Python (Data Scientist)`  - `Tkinter`
 - #### `JavaScript`
 - #### `MySQL`
 
