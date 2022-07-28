@@ -2,13 +2,13 @@
 
 ### 제가 배우고 있는 것은 🧑🏻‍💻
 - #### `Python (Data Scientist)` - `Pandas`, `Numpy`, `Matplotlib`, `ML`, `DL`
-- #### `JavaScript`
-- #### `MySQL`
+- #### `JavaScript` - Web 개발
+- #### `MySQL` - DB 관리, 조회, 데이터 
 
 
 ### 앞으로 배워 나갈 것은
-- #### `Java`
 - #### `C`
+- #### `Java`
 - #### `django`
 
 
