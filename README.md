@@ -4,7 +4,7 @@
 - #### `Python (Data Scientist)` - `Pandas`, `Numpy`, `Matplotlib`, `ML`, `DL`
 - #### `JavaScript` - Web 개발
 - #### `MySQL` - DB 관리, 조회, 데이터 
-- #### `django`
+- #### `django` - project 만들기, app 만들기, urls 관리, def 함수 만들기, HTML 작성하기
 
 ### 앞으로 배워 나갈 것은
 - #### `C`
