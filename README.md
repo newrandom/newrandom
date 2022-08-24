@@ -4,12 +4,11 @@
 - #### `Python (Data Scientist)` - `Pandas`, `Numpy`, `Matplotlib`, `ML`, `DL`
 - #### `JavaScript` - Web 개발
 - #### `MySQL` - DB 관리, 조회, 데이터 
-
+- #### `django`
 
 ### 앞으로 배워 나갈 것은
 - #### `C`
 - #### `Java`
-- #### `django`
 
 
 ### 꿈은 🤔
