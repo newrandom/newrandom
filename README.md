@@ -3,11 +3,12 @@
 ### 제가 배우고 있는 것은 🧑🏻‍💻
 - #### `Python (Data Scientist)` - `Pandas`, `Numpy`, `Matplotlib`, `ML`, `DL`
 - #### `JavaScript` - Front-end, 조건문, 함수
-- #### `MySQL` - DB 관리, 조회, 데이터 
-- #### `django` - project 만들기, app 만들기, urls 관리, def 함수 만들기, HTML 작성하기
+- #### `MySQL, SSMS` - DB 관리, 조회, 데이터 
+- #### `Python (django)` - project 만들기, app 만들기, urls 관리, def 함수 만들기, Templates, Templatetag, views, models, querySet
 
 ### 앞으로 배워 나갈 것은
 - #### `C`
+- #### `C#`
 - #### `Java`
 
 
