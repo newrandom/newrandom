@@ -1,7 +1,7 @@
 # 안녕하세요!
 
 ### 제가 배우고 있는 것은 🧑🏻‍💻
-- #### `Python (Data Scientist)` - `Pandas`, `Numpy`, `Matplotlib`, `ML`, `DL`
+- #### `Python (Data Scientist)` - Pandas, Numpy, Matplotlib, ML, DL
 - #### `JavaScript` - Front-end, 조건문, 함수
 - #### `MySQL, SSMS` - DB 관리, 조회, 데이터 
 - #### `Python (django)` - project 만들기, app 만들기, urls 관리, def 함수 만들기, Templates, Templatetag, views, models, querySet
